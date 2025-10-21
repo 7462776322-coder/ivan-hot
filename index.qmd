@@ -1,5 +1,6 @@
 ---
-title: "MI PAG WEB"
+title: "diseño experimental"
+autor: "Ivan Ramos briceño"
 format: html
 editor: visual
 ---
